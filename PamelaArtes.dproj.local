@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/06/14 19:52:44.000.899,=C:\Users\aalex\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/06/14 19:56:19.000.989,C:\Users\aalex\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\aalex\OneDrive\Área de Trabalho\Projetos\PamelaArtes\Ulogin.dfm</Transaction>
+    <Transaction>2021/06/14 19:56:19.000.989,C:\Users\aalex\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\aalex\OneDrive\Área de Trabalho\Projetos\PamelaArtes\Ulogin.pas</Transaction>
+    <Transaction>2021/06/14 19:56:24.000.505,C:\Users\aalex\OneDrive\Documentos\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\aalex\OneDrive\Área de Trabalho\Projetos\PamelaArtes\PamelaArtes.dproj</Transaction>
+    <Transaction>2021/06/14 19:56:32.000.828,=C:\Users\aalex\OneDrive\Área de Trabalho\Projetos\PamelaArtes\Unit1.pas</Transaction>
+    <Transaction>2021/06/14 19:57:06.000.714,C:\Users\aalex\OneDrive\Área de Trabalho\Projetos\PamelaArtes\Unit1.pas=C:\Users\aalex\OneDrive\Área de Trabalho\Projetos\PamelaArtes\Udmdados.pas</Transaction>
+    <Transaction>2021/06/14 19:57:06.000.714,C:\Users\aalex\OneDrive\Área de Trabalho\Projetos\PamelaArtes\Unit1.dfm=C:\Users\aalex\OneDrive\Área de Trabalho\Projetos\PamelaArtes\Udmdados.dfm</Transaction>
+    <Transaction>2021/06/14 20:18:07.000.550,=C:\Users\aalex\OneDrive\Área de Trabalho\Projetos\PamelaArtes\Unit1.pas</Transaction>
+    <Transaction>2021/06/14 20:18:41.000.080,C:\Users\aalex\OneDrive\Área de Trabalho\Projetos\PamelaArtes\Unit1.pas=C:\Users\aalex\OneDrive\Área de Trabalho\Projetos\PamelaArtes\UPrincipal.pas</Transaction>
+    <Transaction>2021/06/14 20:18:41.000.080,C:\Users\aalex\OneDrive\Área de Trabalho\Projetos\PamelaArtes\Unit1.dfm=C:\Users\aalex\OneDrive\Área de Trabalho\Projetos\PamelaArtes\UPrincipal.dfm</Transaction>
+    <Transaction>2021/06/14 22:14:58.000.233,=C:\Users\aalex\OneDrive\Área de Trabalho\Projetos\PamelaArtes\Unit1.pas</Transaction>
+    <Transaction>2021/06/14 22:16:25.000.584,C:\Users\aalex\OneDrive\Área de Trabalho\Projetos\PamelaArtes\Unit1.pas=C:\Users\aalex\OneDrive\Área de Trabalho\Projetos\PamelaArtes\UPesqCliente.pas</Transaction>
+    <Transaction>2021/06/14 22:16:25.000.584,C:\Users\aalex\OneDrive\Área de Trabalho\Projetos\PamelaArtes\Unit1.dfm=C:\Users\aalex\OneDrive\Área de Trabalho\Projetos\PamelaArtes\UPesqCliente.dfm</Transaction>
+    <Transaction>2021/06/14 23:52:15.000.585,=C:\Users\aalex\OneDrive\Área de Trabalho\Projetos\PamelaArtes\Unit1.pas</Transaction>
+    <Transaction>2021/06/14 23:53:06.000.298,C:\Users\aalex\OneDrive\Área de Trabalho\Projetos\PamelaArtes\Unit1.pas=C:\Users\aalex\OneDrive\Área de Trabalho\Projetos\PamelaArtes\UCadCliente.pas</Transaction>
+    <Transaction>2021/06/14 23:53:06.000.298,C:\Users\aalex\OneDrive\Área de Trabalho\Projetos\PamelaArtes\Unit1.dfm=C:\Users\aalex\OneDrive\Área de Trabalho\Projetos\PamelaArtes\UCadCliente.dfm</Transaction>
+    <Transaction>2021/06/22 00:05:24.000.852,=C:\Users\aalex\OneDrive\Área de Trabalho\Projetos\PamelaArtes\Unit1.pas</Transaction>
+    <Transaction>2021/06/22 00:09:05.000.693,C:\Users\aalex\OneDrive\Área de Trabalho\Projetos\PamelaArtes\UParametros.pas=C:\Users\aalex\OneDrive\Área de Trabalho\Projetos\PamelaArtes\Unit1.pas</Transaction>
+    <Transaction>2021/06/22 00:09:05.000.693,C:\Users\aalex\OneDrive\Área de Trabalho\Projetos\PamelaArtes\UParametros.dfm=C:\Users\aalex\OneDrive\Área de Trabalho\Projetos\PamelaArtes\Unit1.dfm</Transaction>
+    <Transaction>2021/06/24 22:56:29.000.786,=C:\Users\aalex\OneDrive\Área de Trabalho\Projetos\PamelaArtes\Unit1.pas</Transaction>
+    <Transaction>2021/06/24 23:18:43.000.288,C:\Users\aalex\OneDrive\Área de Trabalho\Projetos\PamelaArtes\Unit1.pas=C:\Users\aalex\OneDrive\Área de Trabalho\Projetos\PamelaArtes\UPesqUsuario.pas</Transaction>
+    <Transaction>2021/06/24 23:18:43.000.288,C:\Users\aalex\OneDrive\Área de Trabalho\Projetos\PamelaArtes\Unit1.dfm=C:\Users\aalex\OneDrive\Área de Trabalho\Projetos\PamelaArtes\UPesqUsuario.dfm</Transaction>
+    <Transaction>2021/06/27 16:27:23.000.423,=C:\Users\aalex\OneDrive\Área de Trabalho\Projetos\PamelaArtes\Unit1.pas</Transaction>
+    <Transaction>2021/06/27 23:00:08.000.412,=C:\Users\aalex\OneDrive\Área de Trabalho\Projetos\PamelaArtes\Unit1.pas</Transaction>
+    <Transaction>2021/06/27 23:02:38.000.565,C:\Users\aalex\OneDrive\Área de Trabalho\Projetos\PamelaArtes\URotinas.pas=C:\Users\aalex\OneDrive\Área de Trabalho\Projetos\PamelaArtes\Unit1.pas</Transaction>
+    <Transaction>2021/06/27 23:29:58.000.585,=C:\Users\aalex\OneDrive\Área de Trabalho\Projetos\PamelaArtes\Unit1.pas</Transaction>
+    <Transaction>2021/06/27 23:31:23.000.288,C:\Users\aalex\OneDrive\Área de Trabalho\Projetos\PamelaArtes\Unit1.pas=C:\Users\aalex\OneDrive\Área de Trabalho\Projetos\PamelaArtes\UCadUsuario.pas</Transaction>
+    <Transaction>2021/06/27 23:31:23.000.288,C:\Users\aalex\OneDrive\Área de Trabalho\Projetos\PamelaArtes\Unit1.dfm=C:\Users\aalex\OneDrive\Área de Trabalho\Projetos\PamelaArtes\UCadUsuario.dfm</Transaction>
+    <Transaction>2021/06/28 21:32:04.000.191,=C:\Users\aalex\OneDrive\Área de Trabalho\Projetos\PamelaArtes\Unit1.pas</Transaction>
+    <Transaction>2021/06/28 21:32:23.000.081,C:\Users\aalex\OneDrive\Área de Trabalho\Projetos\PamelaArtes\UCadEnderecoCliente.dfm=C:\Users\aalex\OneDrive\Área de Trabalho\Projetos\PamelaArtes\Unit1.dfm</Transaction>
+    <Transaction>2021/06/28 21:32:23.000.081,C:\Users\aalex\OneDrive\Área de Trabalho\Projetos\PamelaArtes\UCadEnderecoCliente.pas=C:\Users\aalex\OneDrive\Área de Trabalho\Projetos\PamelaArtes\Unit1.pas</Transaction>
+    <Transaction>2021/07/06 19:44:00.000.840,=C:\Users\aalex\OneDrive\Área de Trabalho\Projetos\PamelaArtes\Unit1.pas</Transaction>
+    <Transaction>2021/07/06 19:46:29.000.788,C:\Users\aalex\OneDrive\Área de Trabalho\Projetos\PamelaArtes\Unit1.dfm=C:\Users\aalex\OneDrive\Área de Trabalho\Projetos\PamelaArtes\UPesqProduto.dfm</Transaction>
+    <Transaction>2021/07/06 19:46:29.000.788,C:\Users\aalex\OneDrive\Área de Trabalho\Projetos\PamelaArtes\Unit1.pas=C:\Users\aalex\OneDrive\Área de Trabalho\Projetos\PamelaArtes\UPesqProduto.pas</Transaction>
+    <Transaction>2021/07/06 20:39:45.000.160,=C:\Users\aalex\OneDrive\Área de Trabalho\Projetos\PamelaArtes\Unit1.pas</Transaction>
+    <Transaction>2021/07/06 20:47:06.000.334,C:\Users\aalex\OneDrive\Área de Trabalho\Projetos\PamelaArtes\Unit1.dfm=C:\Users\aalex\OneDrive\Área de Trabalho\Projetos\PamelaArtes\UCadProduto.dfm</Transaction>
+    <Transaction>2021/07/06 20:47:06.000.334,C:\Users\aalex\OneDrive\Área de Trabalho\Projetos\PamelaArtes\Unit1.pas=C:\Users\aalex\OneDrive\Área de Trabalho\Projetos\PamelaArtes\UCadProduto.pas</Transaction>
+  </Transactions>
+</BorlandProject>

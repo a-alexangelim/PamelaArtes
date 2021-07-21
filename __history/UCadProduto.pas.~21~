@@ -1,0 +1,84 @@
+unit UCadProduto;
+
+interface
+
+uses
+  Winapi.Windows, Winapi.Messages, System.SysUtils, System.Variants, System.Classes, Vcl.Graphics,
+  Vcl.Controls, Vcl.Forms, Vcl.Dialogs, Data.DB, Vcl.StdCtrls, Vcl.ExtCtrls,
+  Vcl.Grids, Vcl.DBGrids, Vcl.ComCtrls, Vcl.Buttons, System.ImageList,
+  Vcl.ImgList, dxGDIPlusClasses;
+
+type
+  TfrmCadProduto = class(TForm)
+    Panel1: TPanel;
+    Panel2: TPanel;
+    SpeedButton1: TSpeedButton;
+    SpeedButton2: TSpeedButton;
+    PageControl1: TPageControl;
+    TabSheet1: TTabSheet;
+    DBGrid1: TDBGrid;
+    Panel3: TPanel;
+    GroupBox1: TGroupBox;
+    GroupBox2: TGroupBox;
+    edtCodigo: TEdit;
+    GroupBox3: TGroupBox;
+    edtNome: TEdit;
+    ImageList1: TImageList;
+    Image1: TImage;
+    btCarregaImagem: TSpeedButton;
+    btRemoverImagem: TSpeedButton;
+    OpenDialog1: TOpenDialog;
+    procedure SpeedButton2Click(Sender: TObject);
+    procedure FormClose(Sender: TObject; var Action: TCloseAction);
+    procedure btRemoverImagemClick(Sender: TObject);
+    procedure btCarregaImagemClick(Sender: TObject);
+  private
+    { Private declarations }
+    procedure removerImagem();
+    var
+      s_caminho : String;
+  public
+    { Public declarations }
+  end;
+
+var
+  frmCadProduto: TfrmCadProduto;
+
+implementation
+
+{$R *.dfm}
+
+procedure TfrmCadProduto.FormClose(Sender: TObject; var Action: TCloseAction);
+begin
+  frmCadProduto := nil;
+  Action := caFree;
+end;
+
+procedure TfrmCadProduto.removerImagem;
+begin
+  s_caminho := '';
+end;
+
+procedure TfrmCadProduto.SpeedButton2Click(Sender: TObject);
+begin
+  Close();
+end;
+
+procedure TfrmCadProduto.btCarregaImagemClick(Sender: TObject);
+  var
+    B: TBitmap;
+begin
+  if OpenDialog1.Execute then
+  begin
+
+    s_caminho := OpenDialog1.FileName;
+    Image1.Picture.LoadFromFile(s_caminho);
+  end;
+end;
+
+procedure TfrmCadProduto.btRemoverImagemClick(Sender: TObject);
+begin
+  removerImagem();
+end;
+
+end.
